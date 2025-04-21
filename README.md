@@ -114,7 +114,7 @@ Plugin này giúp kết nối Official Account (OA) Zalo với WooCommerce, tự
 ---
 
 ## Liên hệ & Hỗ trợ
-- GitHub Issues: https://github.com/thanhan92-f1/devvn-zalo-oa/issues  
+- GitHub Issues: https://github.com/thanhan92-f1/dev-zalo-oa-hitechcloud
 - Email: support@photuesoftware.vn  
 
 ---
